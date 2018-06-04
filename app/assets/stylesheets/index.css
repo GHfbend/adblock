@@ -1,0 +1,15 @@
+.masthead{
+    background-image:url(king.png);
+}
+
+.introst {
+    width: 1200px;
+}
+
+strong {
+    color: green;
+}
+
+nav a:hover {
+    background-color: #eee !important; 
+}
